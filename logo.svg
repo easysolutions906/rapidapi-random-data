@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="60" fill="#ea580c"/>
+  <!-- Die body -->
+  <rect x="140" y="90" width="220" height="220" rx="30" fill="none" stroke="#ffffff" stroke-width="18"/>
+  <!-- Dots - showing 5 pattern -->
+  <circle cx="200" cy="150" r="18" fill="#ffffff"/>
+  <circle cx="300" cy="150" r="18" fill="#ffffff"/>
+  <circle cx="250" cy="200" r="18" fill="#ffffff"/>
+  <circle cx="200" cy="250" r="18" fill="#ffffff"/>
+  <circle cx="300" cy="250" r="18" fill="#ffffff"/>
+  <!-- Second die shadow/offset -->
+  <rect x="175" y="125" width="220" height="220" rx="30" fill="none" stroke="#ffffff" stroke-width="12" opacity="0.4"/>
+  <text x="250" y="430" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#ffffff">RANDOM</text>
+</svg>
