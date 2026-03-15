@@ -1,0 +1,17 @@
+{
+  "name": "random-data-api",
+  "version": "1.0.0",
+  "description": "Random/fake data generator API - people, addresses, companies, credit cards",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["random", "fake", "data", "generator", "api"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
